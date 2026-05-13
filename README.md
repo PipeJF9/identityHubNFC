@@ -54,7 +54,8 @@ Para un despliegue Android, genera primero el bundle anterior y luego compila la
 
 ## Presentación
 
-Enlace de la presentación: [agregar enlace aquí]
+- Enlace de la presentación: [Link de canva](https://www.canva.com/design/DAHJf1Os6kY/YjVEyRqloeoMqULxRU7QUQ/edit)
+- Enlace demo [Link video](https://www.youtube.com/watch?v=ddHIPUzFAJo)
 
 ## Notas
 
